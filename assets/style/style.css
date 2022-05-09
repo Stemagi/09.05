@@ -1,7 +1,15 @@
-ul{
-  padding-left: 1em;
-  /* list-style: none; */
-  list-style-position: inside;
-   list-style-image: url(./../icons/account-alert_black.png);
-   /* list-style-type: disc; */
+body{
+  background-color: rgba(50, 2, 50, 0.743);
+  color: aqua;
+}
+table{
+  width: 90%;
+  margin: auto;
+  border: 3px solid red;
+  /* border-spacing: 12px; */
+  border-collapse: collapse;
+}
+th,td{
+  min-width: 300px;
+  border: 3px solid cyan;
 }
