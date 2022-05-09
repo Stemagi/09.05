@@ -1,16 +1,7 @@
-.container{
-
-}
-.block{
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 1px solid aqua;
-  background-color: bisque;
-}
-.hide1{
-  visibility: hidden;
-}
-.hide2{
-  display: none;
+ul{
+  padding-left: 1em;
+  /* list-style: none; */
+  list-style-position: inside;
+   list-style-image: url(./../icons/account-alert_black.png);
+   /* list-style-type: disc; */
 }
